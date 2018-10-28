@@ -6,5 +6,7 @@ Patatap clone, but with circles only
 - Paper.js
 - Howler.js
 
-## Sounds
+## Note
 Sounds are from https://github.com/jonobr1/Neuronal-Synchrony
+
+**Only works on Mozilla Firefox**
