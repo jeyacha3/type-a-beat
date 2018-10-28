@@ -4,6 +4,7 @@ Patatap clone, but with circles only
 - HTML
 - CSS
 - Paper.js
+- Howler.js
 
 ## Sounds
 Sounds are from https://github.com/jonobr1/Neuronal-Synchrony
